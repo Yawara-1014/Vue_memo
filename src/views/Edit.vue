@@ -2,6 +2,7 @@
   <div class="editor">
     <textarea name="memo" v-model="memoBody"></textarea>
     <button @click="save">保存</button>
+    <button class="remove">削除</button>
   </div>
 </template>
 
@@ -35,3 +36,11 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.remove {
+  background-color: transparent;
+  color: #f33;
+  border: 1px solid
+}
+</style>
