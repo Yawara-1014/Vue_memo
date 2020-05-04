@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>Home にて投稿したメモが見れます。</p>
+    <p>Home にて投稿したメモをクリックすることで編集・削除ができます。</p>
+    <p>New にて新規でメモを投稿することができます。</p>
   </div>
 </template>
