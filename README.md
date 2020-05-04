@@ -3,7 +3,7 @@
 <h2 align="center">Vue_memo</h2>
 
 <p align="center">
-  <a href="vue公式サイトURL"><img src="https://〜.png" width="80px;" /></a>
+  <a href="https://jp.vuejs.org/index.html"><img src="https://user-images.githubusercontent.com/39142850/71645835-a98d4580-2d21-11ea-9693-348d12101bb4.png" width="80px;" /></a>
 </p>
 
 ## 🌐 App URL
